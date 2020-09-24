@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+#search_advice_wrapper{
+    width: 350px;    
+    color: black;
+    background: grey;
+}
+
+#search_advice_wrapper .advice_variant{
+    cursor: pointer;
+    padding: 5px;
+    text-align: left;
+}
+#search_advice_wrapper .advice_variant:hover{
+    color: white;
+    
+}
+#search_advice_wrapper .active{
+    cursor: pointer;
+    padding: 5px;
+    color:white;
+    
+}
